@@ -25,12 +25,42 @@ let allMusic = [
     img: "3",
     src: "3"
   },
+  {
+    name: "Jug Jug Jeeve",
+    artist: "Sachet Tandon, Parampara Tandon, Sachin-Jigar",
+    img: "5",
+    src: "5"
+  },
+  {
+    name: "Meri Zindagi Hai Tu",
+    artist: "Jubin Nautiyal and Neeti Mohan",
+    img: "6",
+    src: "6"
+  },
+  {
+    name: "Tujh Mein Rab Dikhta Hai",
+    artist: "Roopkumar Rathod",
+    img: "7",
+    src: "7"
+  },
+  {
+    name: "Dil Ko Karaar Aaya",
+    artist: "Yasser Desai, Neha Kakkar",
+    img: "8",
+    src: "8"
+  },
+  {
+    name: "Chale Aana",
+    artist: "Amaal Mallik, Armaan Malik",
+    img: "9",
+    src: "9"
+  },
+  {
+    name: "Saiyaara",
+    artist: "Mohit Chauhan, Tarannum Mallik",
+    img: "10",
+    src: "10"
+  },
   
-  // like this paste it and remember to give comma after ending of this bracket }
-  // {
-  //   name: "Here is the music name",
-  //   artist: "Here is the artist name",
-  //   img: "image name here - remember img must be in .jpg formate and it's inside the images folder of this project folder",
-  //   src: "music name here - remember img must be in .mp3 formate and it's inside the songs folder of this project folder"
-  // }
+  
 ];
